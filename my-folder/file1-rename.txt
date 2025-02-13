@@ -1,2 +1,7 @@
 This line was added to the file 'file1.txt'
 Also, we have deleted the first line
+-------------------------------------
+Author: Developer C
+Date: 13th Feb 2025
+Purpose: To check case of PULL REBASE
+======================================
