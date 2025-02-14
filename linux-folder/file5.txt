@@ -1,0 +1,5 @@
+Author: Developer B
+Date: 14th Feb 2025
+Purpose: Learning GIT on Linux
+==============================
+Created the first file on Linux 'file5.txt'
